@@ -23,7 +23,6 @@ This project was developed as part of the **Programming Language Lab Final Proje
 
 ## 📂 Project Structure
 
-
 Self-Driving/
 │── track6.png
 │── tesla.png
