@@ -19,7 +19,7 @@ This project was developed as part of the **Programming Language Lab Final Proje
 - Python 3  
 - Pygame  
 
---
+---
 
 ## 📂 Project Structure
 
