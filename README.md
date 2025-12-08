@@ -16,6 +16,7 @@ This project was developed as part of the **Programming Language Lab Final Proje
 ---
 
 ## 🛠 Technologies Used
+
 - Python 3  
 - Pygame  
 
