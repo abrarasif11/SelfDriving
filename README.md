@@ -14,7 +14,6 @@ This project was developed as part of the **Programming Language Lab Final Proje
 - Smooth simulation performance  
 
 ---
-
 ## 🛠 Technologies Used
 - Python 3  
 - Pygame  
