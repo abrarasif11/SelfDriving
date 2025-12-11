@@ -5,7 +5,6 @@ The car automatically follows a track by detecting pixel colors and adjusting di
 This project was developed as part of the **Programming Language Lab Final Project**.
 
 --- 
-
 ## 📌 Features
 - Autonomous car movement  
 - Pixel-based camera detection  
