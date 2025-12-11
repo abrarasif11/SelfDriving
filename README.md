@@ -2,7 +2,7 @@
 
 This project is a **Self-Driving Car Simulation** built using **Python** and **Pygame**.  
 The car automatically follows a track by detecting pixel colors and adjusting direction.  
-This project was developed as part of the **Programming Language Lab Final Project**.
+This project was developed as part of the **Programming Language Lab Final Project.
 
 --- 
 
