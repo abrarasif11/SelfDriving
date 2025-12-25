@@ -28,5 +28,3 @@ Self-Driving/
 │── tesla.png
 │── main.py
 └── README.md
-
-
