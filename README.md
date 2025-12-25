@@ -6,7 +6,7 @@ This project was developed as part of the **Programming Language Lab Final Proje
 
 --- 
 
-## 📌 Features 
+## 📌 Features
 - Autonomous car movement  
 - Pixel-based camera detection  
 - Automatic turns based on track  
